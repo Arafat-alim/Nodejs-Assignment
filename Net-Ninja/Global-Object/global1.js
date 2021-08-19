@@ -13,3 +13,5 @@
 
 console.log(__dirname); //E:\ARAFAT\WEB DEVELOPMENT FULL STACK\The Net Ninja - NodeJs\nodejs-Assignment\Net-Ninja\Global-Object //!Not file name only directory path
 console.log(__filename); //E:\ARAFAT\WEB DEVELOPMENT FULL STACK\The Net Ninja - NodeJs\nodejs-Assignment\Net-Ninja\Global-Object\global1.js //!filenmae with directory path
+
+//! DOM manipulation are not access in Nodejs package.. it is the part of browser and also  we dont need dom manipulation
